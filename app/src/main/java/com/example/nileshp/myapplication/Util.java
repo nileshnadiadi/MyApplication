@@ -7,6 +7,7 @@ package com.example.nileshp.myapplication;
 public class Util {
 
     public static boolean isTestActive = false;
+    public static String branchname= "customer";
 
 }
 
