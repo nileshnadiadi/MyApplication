@@ -6,7 +6,7 @@ package com.example.nileshp.myapplication;
 
 public class Util {
 
-    public static boolean isTestActive = true;
+    public static boolean isTestActive = false;
 
 }
 
